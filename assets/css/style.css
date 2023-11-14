@@ -1,4 +1,7 @@
  
+   
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+   
    /*********************************/
   /***********1.GLOBAL CSS*********/
  /********************************/
@@ -21,6 +24,9 @@ time, mark, audio, span, video {
    outline: 0;
    font-size: 100%;
    background: transparent;
+}
+body{
+  font-family: 'Roboto', sans-serif;
 }
 table {
    border-collapse: collapse;
@@ -74,6 +80,16 @@ img{
   width: 100%;
   height: auto;
 }
+
+.container{
+  width: 100%;
+  max-width: 1312px;
+  margin: 0 auto;
+}
+
+
+
+
    /*********************************/
   /***********2.GLOBAL CSS**********/
  /********************************/
