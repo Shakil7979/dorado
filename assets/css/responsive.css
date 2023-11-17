@@ -143,6 +143,9 @@
     .address_bar { 
         height: auto;
     }
+    .addrress_mobil {
+        flex: 0 0 83%;
+    }
     .delivery_flex ul li a img {
         width: 120px;
         height: 36px;

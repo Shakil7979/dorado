@@ -817,6 +817,7 @@ p{
 .address_flex_free{
 	display: flex;
 	gap: 16px;
+	align-items: center;
 }
 
 .order_summery_single {
