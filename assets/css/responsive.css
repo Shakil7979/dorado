@@ -144,6 +144,9 @@
         width: 120px;
         height: 36px;
     } 
+    .error_page_title h3 { 
+        font-size: 24px; 
+    }
     .single_product_del { 
         flex-direction: column;
         justify-content: center;

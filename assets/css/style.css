@@ -419,6 +419,10 @@ p{
 	text-align: center;
 }
 
+.footer p {
+	color: #FFF;
+}
+
 
    /*********************************/
   /*********** CATEGORY CSS**********/
@@ -1006,10 +1010,18 @@ p{
 	padding: 112px 0;
 }
 
-.error_page_title H2 {
+.error_page_title h2 {
 	color: var(--White, #FFF);
 	text-align: center; 
 	font-size: 56px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 120%;
+}
+
+.error_page_title h3 {
+	color: var(--White, #FFF); 
+	font-size: 40px;
 	font-style: normal;
 	font-weight: 700;
 	line-height: 120%;
