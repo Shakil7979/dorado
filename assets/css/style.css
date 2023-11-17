@@ -594,17 +594,18 @@ p{
 .product_deliverY_text {
 	display: flex;
 	justify-content: space-between;
+	border-top: 1px solid #000;
+	padding: 16px 0;
+	margin-top: 32px;
+	border-bottom: 1px solid #000;
 }
 
 .product_discussion p {
 	margin-bottom: 16px;
 }
 
-.product_discussion {
-	margin: 32px 0;
-	padding: 16px 0;
-	border-top: 1px solid #000;
-	border-bottom: 1px solid #000;
+.product_discussion { 
+	padding: 16px 0; 
 	height: 439px;
 }
 
