@@ -452,7 +452,7 @@ p{
 }
 
 .section_page_padding{
-  padding: 80px 0;
+  padding: 80px 0 112px 0;
 }
 
 .cateogry_item_flex {
@@ -964,7 +964,7 @@ p{
  /********************************/
 
 
- .delivery_flex ul li a img {
+ .delivery_flex ul li img {
 	width: 196px;
 	height: 55px;
 }
@@ -973,15 +973,20 @@ p{
 	border-radius: 10px;
 	border: 1px solid #000;
 	margin-bottom: 16px;
-}
-
-.delivery_flex ul li a {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 	padding: 20px 24px;
 	box-sizing: border-box;
 }
+
+/* .delivery_flex ul li a {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 24px;
+	box-sizing: border-box;
+} */
 
 
 .delivery_area{
@@ -1044,4 +1049,8 @@ p{
 .error_page_title {
 	text-align: center;
 	margin-bottom: 80px;
+}
+
+.search_title{
+	font-size: 40px;
 }

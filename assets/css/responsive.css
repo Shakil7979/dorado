@@ -140,10 +140,13 @@
     .category_item_single {
         flex: 0 0 calc(100% / 1 - 12px);
     }
+    .address_bar { 
+        height: auto;
+    }
     .delivery_flex ul li a img {
         width: 120px;
         height: 36px;
-    } 
+    }  
     .error_page_title h3 { 
         font-size: 24px; 
     }
@@ -192,4 +195,7 @@
         width: 28px;
         height: 28px; 
     }
+}
+
+@media all and (max-width: 450px){ 
 }
