@@ -202,7 +202,7 @@ p{
   width: 100%;
 }
 
-.header_input_search button {
+.header_input_search a {
 	background: transparent;
 	border: none;
 	display: -webkit-box;
@@ -232,7 +232,7 @@ p{
 	max-width: 508px;
 }
 
-.header_input_search button img {
+.header_input_search a img {
 	width: 36px;
 }
 
