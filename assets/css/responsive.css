@@ -71,6 +71,10 @@
                 flex-direction: column;
         gap: 20px;
     }
+    .delivery_flex ul li img {
+        width: 100px;
+        height: 55px;
+    }
     .error_page_area { 
         padding: 60px 0;
     }
@@ -225,8 +229,8 @@
     .cart_shoping h3 {
         margin-bottom: 10px;
     }
-    .cart_single { 
-        padding: 30px 0; 
+    .cart_single {
+        padding: 30px 15px;
     }
     .cart_info { 
         padding: 46px 40px; 
