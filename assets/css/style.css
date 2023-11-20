@@ -1255,3 +1255,14 @@ p{
 .search_title{
 	/* font-size: 40px; */
 }
+
+
+.sk_grid_main {
+	display: grid;
+	grid-template-rows: 10% 70% 20%;
+}
+
+.delivery_flex ul {
+	display: grid;
+	grid-template-rows:  10% 10% 10% 10% 10% 10%;
+}
